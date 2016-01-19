@@ -1,5 +1,5 @@
-##MakeCacheMatrix function takes as argument a matrix, it then uses the functions setinv and getinv to assign the inverse of the matrix and return the matrix inverse
-
+##MakeCacheMatrix function takes as argument a matrix, it then uses the functions setinv and getinv to assign the inverse of the matrix 
+##and return the matrix inverse
 
 makeCacheMatrix <- function(x = matrix()) {
 
